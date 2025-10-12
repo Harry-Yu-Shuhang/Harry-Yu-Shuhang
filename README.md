@@ -50,23 +50,6 @@
 
 ###
 
-<!-- ⭐ Featured projects (flex layout) -->
-<h2 align="center">⭐ Featured Projects</h2>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
-  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber repo card" />
-  </a>
-  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Unity" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber-Unity&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber-Unity repo card" />
-  </a>
-  <a href="https://github.com/Open-LLM-VTuber/open-llm-vtuber.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=open-llm-vtuber.github.io&theme=dracula&hide_border=false" height="150" alt="open-llm-vtuber.github.io repo card" />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <a href="https://github.com/Open-LLM-VTuber" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/stars/Open-LLM-VTuber?style=social" height="24" alt="Org stars" />
