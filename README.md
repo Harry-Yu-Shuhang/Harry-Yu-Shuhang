@@ -60,12 +60,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber repo card" />
   </a>
 
-  <a href="https://github.com/Open-LLM-VTuber/Voice-Live2D-Engine" target="_blank">
+  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Unity" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Voice-Live2D-Engine&theme=dracula&hide_border=false" height="150" alt="Voice-Live2D-Engine repo card" />
-  </a>
-
-  <a href="https://github.com/Open-LLM-VTuber/Dockerized-Edition" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Dockerized-Edition&theme=dracula&hide_border=false" height="150" alt="Dockerized Edition repo card" />
   </a>
 
 </div>
