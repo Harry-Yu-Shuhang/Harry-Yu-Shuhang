@@ -11,43 +11,66 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shuhang-y-09bb742a0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/shuhang-y-09bb742a0/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://discord.gg/5BQgn6Dw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.gg/5BQgn6Dw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://join.slack.com/shareDM/zt-3fguqrqs3-APhQ_HUHCUMPYg~jgs~Mzw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <a href="https://join.slack.com/shareDM/zt-3fguqrqs3-APhQ_HUHCUMPYg~jgs~Mzw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Harry-Yu-Shuhang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
+  <img src="https://streak-stats.demolab.com?user=Harry-Yu-Shuhang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
+
+<!-- ⭐ Featured projects (flex layout) -->
+<h2 align="center">⭐ Featured Projects</h2>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber repo card" />
+  </a>
+  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Unity" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber-Unity&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber-Unity repo card" />
+  </a>
+  <a href="https://github.com/Open-LLM-VTuber/open-llm-vtuber.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=open-llm-vtuber.github.io&theme=dracula&hide_border=false" height="150" alt="open-llm-vtuber.github.io repo card" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/Open-LLM-VTuber" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/stars/Open-LLM-VTuber?style=social" height="24" alt="Org stars" />
+  </a>
+  <br />
+  <sub>⭐ If you like our work, please <b>Star</b> the organization.</sub>
+</div>
