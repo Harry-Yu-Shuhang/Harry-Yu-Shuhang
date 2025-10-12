@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <sub>⭐ Star our organization to support the project!</sub>
-</div>
