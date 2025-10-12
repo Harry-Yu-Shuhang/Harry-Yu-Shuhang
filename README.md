@@ -45,11 +45,9 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber repo card" />
-  </a>
 
   <img src="https://streak-stats.demolab.com?user=Harry-Yu-Shuhang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
 </div>
 
 ###
