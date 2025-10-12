@@ -61,7 +61,7 @@
   </a>
 
   <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Unity" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Voice-Live2D-Engine&theme=dracula&hide_border=false" height="150" alt="Voice-Live2D-Engine repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber-Unity&repo=Voice-Live2D-Engine&theme=dracula&hide_border=false" height="150" alt="Voice-Live2D-Engine repo card" />
   </a>
 
 </div>
@@ -69,9 +69,5 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Open-LLM-VTuber" target="_blank">
-    <img src="https://img.shields.io/github/stars/Open-LLM-VTuber?style=social" height="25" alt="Org stars" />
-  </a>
-  <br>
   <sub>⭐ Star our organization to support the project!</sub>
 </div>
