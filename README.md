@@ -51,9 +51,6 @@
 
 ###
 
-<!-- ⭐ 高星项目区块 -->
-<h2 align="center">⭐ Featured Projects from Open-LLM-VTuber</h2>
-
 <div align="center">
 
   <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
