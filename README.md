@@ -60,10 +60,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber repo card" />
   </a>
 
-  <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Unity" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Open-LLM-VTuber&repo=Open-LLM-VTuber-Unity&theme=dracula&hide_border=false" height="150" alt="Open-LLM-VTuber-Unity repo card" />
-  </a>
-
 </div>
 
 ###
