@@ -49,11 +49,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://github.com/Open-LLM-VTuber" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/Open-LLM-VTuber?style=social" height="24" alt="Org stars" />
-  </a>
-  <br />
-  <sub>⭐ If you like our work, please <b>Star</b> the organization.</sub>
-</div>
