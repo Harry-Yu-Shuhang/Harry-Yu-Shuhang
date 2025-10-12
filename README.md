@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shuhang-y-09bb742a0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://discord.gg/5BQgn6Dw" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://join.slack.com/shareDM/zt-3fguqrqs3-APhQ_HUHCUMPYg~jgs~Mzw" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo" />
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=611F69&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
