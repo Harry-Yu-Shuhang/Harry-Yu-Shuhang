@@ -3,7 +3,7 @@
 
 <p align="center">
 <a title="LinkedIn!" href="https://www.linkedin.com/in/shuhang-y-09bb742a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a title="QQ" href="https://wpa.qq.com/msgrd?v=3&uin=1696771500&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1696771500-blue"></a>
+<a title="QQ" href="https://qm.qq.com/q/EIXIkEMRhe"><img src="https://img.shields.io/badge/QQ-1696771500-blue"></a>
 <a title="Discord" href="https://discord.gg/sWJd2VN6EP"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"></a>
 </p>
 
