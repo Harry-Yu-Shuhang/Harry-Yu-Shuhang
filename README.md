@@ -9,7 +9,7 @@
 
 ### Fun stuff I'm working on:
 
-- I created and am maintaining [@Open-LLM-VTuber](https://github.com/Open-LLM-VTuber) project.
+- I am maintaining [@Open-LLM-VTuber](https://github.com/Open-LLM-VTuber) project, responsible for making our vitrual girlfriend easier to use.
 
 ### Build fun stuff with:
 <!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
