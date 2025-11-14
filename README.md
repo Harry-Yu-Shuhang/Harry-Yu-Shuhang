@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm Harry Yu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
-<h3 align="center">A full-stack engineer<sub> from Shanghai, China. Now I'm an intern at Hypergryph.</sub></h3>
+<h3 align="center">A full-stack engineer<sub> from Shanghai, China.</sub></h3>
 
 <p align="center">
 <a title="LinkedIn!" href="https://www.linkedin.com/in/shuhang-y-09bb742a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
